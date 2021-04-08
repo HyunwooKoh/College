@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string name="file_detect">File Detecting</string>
+    <string name="su_command">su Command</string>
+    <string name="package_search">Package Search</string>
+    <string name="build_tag">Build Tag Chck</string>
+    <string name="start_button">Start Rooting Detecting</string>
+    <string name="start_emulator_detecting">START EMULATOR DETECTING</string>
+    <string name="em_detect1">Em_Detect1</string>
+</resources>
